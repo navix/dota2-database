@@ -2,7 +2,7 @@
     {
         "id": "1",
         "name": "npc_dota_hero_antimage",
-        "localized_name": "Anti-Mage",
+        "localizedName": "Anti-Mage",
         "url": "Anti-Mage",
         "abilities": [
             "5003",
@@ -14,7 +14,7 @@
     {
         "id": "2",
         "name": "npc_dota_hero_axe",
-        "localized_name": "Axe",
+        "localizedName": "Axe",
         "url": "Axe",
         "abilities": [
             "5007",
@@ -26,7 +26,7 @@
     {
         "id": "3",
         "name": "npc_dota_hero_bane",
-        "localized_name": "Bane",
+        "localizedName": "Bane",
         "url": "Bane",
         "abilities": [
             "5012",
@@ -39,7 +39,7 @@
     {
         "id": "4",
         "name": "npc_dota_hero_bloodseeker",
-        "localized_name": "Bloodseeker",
+        "localizedName": "Bloodseeker",
         "url": "Bloodseeker",
         "abilities": [
             "5015",
@@ -51,7 +51,7 @@
     {
         "id": "5",
         "name": "npc_dota_hero_crystal_maiden",
-        "localized_name": "Crystal Maiden",
+        "localizedName": "Crystal Maiden",
         "url": "Crystal_Maiden",
         "abilities": [
             "5126",
@@ -63,7 +63,7 @@
     {
         "id": "6",
         "name": "npc_dota_hero_drow_ranger",
-        "localized_name": "Drow Ranger",
+        "localizedName": "Drow Ranger",
         "url": "Drow_Ranger",
         "abilities": [
             "5019",
@@ -75,7 +75,7 @@
     {
         "id": "7",
         "name": "npc_dota_hero_earthshaker",
-        "localized_name": "Earthshaker",
+        "localizedName": "Earthshaker",
         "url": "Earthshaker",
         "abilities": [
             "5023",
@@ -87,7 +87,7 @@
     {
         "id": "8",
         "name": "npc_dota_hero_juggernaut",
-        "localized_name": "Juggernaut",
+        "localizedName": "Juggernaut",
         "url": "Juggernaut",
         "abilities": [
             "5028",
@@ -99,7 +99,7 @@
     {
         "id": "9",
         "name": "npc_dota_hero_mirana",
-        "localized_name": "Mirana",
+        "localizedName": "Mirana",
         "url": "Mirana",
         "abilities": [
             "5051",
@@ -111,7 +111,7 @@
     {
         "id": "11",
         "name": "npc_dota_hero_nevermore",
-        "localized_name": "Shadow Fiend",
+        "localizedName": "Shadow Fiend",
         "url": "Shadow_Fiend",
         "abilities": [
             "5059",
@@ -125,7 +125,7 @@
     {
         "id": "10",
         "name": "npc_dota_hero_morphling",
-        "localized_name": "Morphling",
+        "localizedName": "Morphling",
         "url": "Morphling",
         "abilities": [
             "5052",
@@ -139,7 +139,7 @@
     {
         "id": "12",
         "name": "npc_dota_hero_phantom_lancer",
-        "localized_name": "Phantom Lancer",
+        "localizedName": "Phantom Lancer",
         "url": "Phantom_Lancer",
         "abilities": [
             "5065",
@@ -151,7 +151,7 @@
     {
         "id": "13",
         "name": "npc_dota_hero_puck",
-        "localized_name": "Puck",
+        "localizedName": "Puck",
         "url": "Puck",
         "abilities": [
             "5069",
@@ -164,7 +164,7 @@
     {
         "id": "14",
         "name": "npc_dota_hero_pudge",
-        "localized_name": "Pudge",
+        "localizedName": "Pudge",
         "url": "Pudge",
         "abilities": [
             "5075",
@@ -176,7 +176,7 @@
     {
         "id": "15",
         "name": "npc_dota_hero_razor",
-        "localized_name": "Razor",
+        "localizedName": "Razor",
         "url": "Razor",
         "abilities": [
             "5082",
@@ -188,7 +188,7 @@
     {
         "id": "16",
         "name": "npc_dota_hero_sand_king",
-        "localized_name": "Sand King",
+        "localizedName": "Sand King",
         "url": "Sand_King",
         "abilities": [
             "5102",
@@ -200,7 +200,7 @@
     {
         "id": "17",
         "name": "npc_dota_hero_storm_spirit",
-        "localized_name": "Storm Spirit",
+        "localizedName": "Storm Spirit",
         "url": "Storm_Spirit",
         "abilities": [
             "5098",
@@ -212,7 +212,7 @@
     {
         "id": "18",
         "name": "npc_dota_hero_sven",
-        "localized_name": "Sven",
+        "localizedName": "Sven",
         "url": "Sven",
         "abilities": [
             "5094",
@@ -224,7 +224,7 @@
     {
         "id": "19",
         "name": "npc_dota_hero_tiny",
-        "localized_name": "Tiny",
+        "localizedName": "Tiny",
         "url": "Tiny",
         "abilities": [
             "5106",
@@ -236,7 +236,7 @@
     {
         "id": "20",
         "name": "npc_dota_hero_vengefulspirit",
-        "localized_name": "Vengeful Spirit",
+        "localizedName": "Vengeful Spirit",
         "url": "Vengeful_Spirit",
         "abilities": [
             "5122",
@@ -248,7 +248,7 @@
     {
         "id": "21",
         "name": "npc_dota_hero_windrunner",
-        "localized_name": "Windranger",
+        "localizedName": "Windranger",
         "url": "Windranger",
         "abilities": [
             "5130",
@@ -260,7 +260,7 @@
     {
         "id": "22",
         "name": "npc_dota_hero_zuus",
-        "localized_name": "Zeus",
+        "localizedName": "Zeus",
         "url": "Zeus",
         "abilities": [
             "5110",
@@ -272,7 +272,7 @@
     {
         "id": "23",
         "name": "npc_dota_hero_kunkka",
-        "localized_name": "Kunkka",
+        "localizedName": "Kunkka",
         "url": "Kunkka",
         "abilities": [
             "5031",
@@ -285,7 +285,7 @@
     {
         "id": "25",
         "name": "npc_dota_hero_lina",
-        "localized_name": "Lina",
+        "localizedName": "Lina",
         "url": "Lina",
         "abilities": [
             "5040",
@@ -297,7 +297,7 @@
     {
         "id": "31",
         "name": "npc_dota_hero_lich",
-        "localized_name": "Lich",
+        "localizedName": "Lich",
         "url": "Lich",
         "abilities": [
             "5134",
@@ -309,7 +309,7 @@
     {
         "id": "26",
         "name": "npc_dota_hero_lion",
-        "localized_name": "Lion",
+        "localizedName": "Lion",
         "url": "Lion",
         "abilities": [
             "5044",
@@ -321,7 +321,7 @@
     {
         "id": "27",
         "name": "npc_dota_hero_shadow_shaman",
-        "localized_name": "Shadow Shaman",
+        "localizedName": "Shadow Shaman",
         "url": "Shadow_Shaman",
         "abilities": [
             "5078",
@@ -333,7 +333,7 @@
     {
         "id": "28",
         "name": "npc_dota_hero_slardar",
-        "localized_name": "Slardar",
+        "localizedName": "Slardar",
         "url": "Slardar",
         "abilities": [
             "5114",
@@ -345,7 +345,7 @@
     {
         "id": "29",
         "name": "npc_dota_hero_tidehunter",
-        "localized_name": "Tidehunter",
+        "localizedName": "Tidehunter",
         "url": "Tidehunter",
         "abilities": [
             "5118",
@@ -357,7 +357,7 @@
     {
         "id": "30",
         "name": "npc_dota_hero_witch_doctor",
-        "localized_name": "Witch Doctor",
+        "localizedName": "Witch Doctor",
         "url": "Witch_Doctor",
         "abilities": [
             "5138",
@@ -369,7 +369,7 @@
     {
         "id": "32",
         "name": "npc_dota_hero_riki",
-        "localized_name": "Riki",
+        "localizedName": "Riki",
         "url": "Riki",
         "abilities": [
             "5142",
@@ -381,7 +381,7 @@
     {
         "id": "33",
         "name": "npc_dota_hero_enigma",
-        "localized_name": "Enigma",
+        "localizedName": "Enigma",
         "url": "Enigma",
         "abilities": [
             "5146",
@@ -393,7 +393,7 @@
     {
         "id": "34",
         "name": "npc_dota_hero_tinker",
-        "localized_name": "Tinker",
+        "localizedName": "Tinker",
         "url": "Tinker",
         "abilities": [
             "5150",
@@ -405,7 +405,7 @@
     {
         "id": "35",
         "name": "npc_dota_hero_sniper",
-        "localized_name": "Sniper",
+        "localizedName": "Sniper",
         "url": "Sniper",
         "abilities": [
             "5154",
@@ -417,7 +417,7 @@
     {
         "id": "36",
         "name": "npc_dota_hero_necrolyte",
-        "localized_name": "Necrophos",
+        "localizedName": "Necrophos",
         "url": "Necrophos",
         "abilities": [
             "5158",
@@ -429,7 +429,7 @@
     {
         "id": "37",
         "name": "npc_dota_hero_warlock",
-        "localized_name": "Warlock",
+        "localizedName": "Warlock",
         "url": "Warlock",
         "abilities": [
             "5162",
@@ -441,7 +441,7 @@
     {
         "id": "38",
         "name": "npc_dota_hero_beastmaster",
-        "localized_name": "Beastmaster",
+        "localizedName": "Beastmaster",
         "url": "Beastmaster",
         "abilities": [
             "5168",
@@ -454,7 +454,7 @@
     {
         "id": "39",
         "name": "npc_dota_hero_queenofpain",
-        "localized_name": "Queen of Pain",
+        "localizedName": "Queen of Pain",
         "url": "Queen_of_Pain",
         "abilities": [
             "5173",
@@ -466,7 +466,7 @@
     {
         "id": "40",
         "name": "npc_dota_hero_venomancer",
-        "localized_name": "Venomancer",
+        "localizedName": "Venomancer",
         "url": "Venomancer",
         "abilities": [
             "5178",
@@ -478,7 +478,7 @@
     {
         "id": "41",
         "name": "npc_dota_hero_faceless_void",
-        "localized_name": "Faceless Void",
+        "localizedName": "Faceless Void",
         "url": "Faceless_Void",
         "abilities": [
             "5182",
@@ -490,7 +490,7 @@
     {
         "id": "42",
         "name": "npc_dota_hero_skeleton_king",
-        "localized_name": "Wraith King",
+        "localizedName": "Wraith King",
         "url": "Wraith_King",
         "abilities": [
             "5086",
@@ -502,7 +502,7 @@
     {
         "id": "43",
         "name": "npc_dota_hero_death_prophet",
-        "localized_name": "Death Prophet",
+        "localizedName": "Death Prophet",
         "url": "Death_Prophet",
         "abilities": [
             "5090",
@@ -514,7 +514,7 @@
     {
         "id": "44",
         "name": "npc_dota_hero_phantom_assassin",
-        "localized_name": "Phantom Assassin",
+        "localizedName": "Phantom Assassin",
         "url": "Phantom_Assassin",
         "abilities": [
             "5190",
@@ -526,7 +526,7 @@
     {
         "id": "45",
         "name": "npc_dota_hero_pugna",
-        "localized_name": "Pugna",
+        "localizedName": "Pugna",
         "url": "Pugna",
         "abilities": [
             "5186",
@@ -538,7 +538,7 @@
     {
         "id": "46",
         "name": "npc_dota_hero_templar_assassin",
-        "localized_name": "Templar Assassin",
+        "localizedName": "Templar Assassin",
         "url": "Templar_Assassin",
         "abilities": [
             "5194",
@@ -551,7 +551,7 @@
     {
         "id": "47",
         "name": "npc_dota_hero_viper",
-        "localized_name": "Viper",
+        "localizedName": "Viper",
         "url": "Viper",
         "abilities": [
             "5218",
@@ -563,7 +563,7 @@
     {
         "id": "48",
         "name": "npc_dota_hero_luna",
-        "localized_name": "Luna",
+        "localizedName": "Luna",
         "url": "Luna",
         "abilities": [
             "5222",
@@ -575,7 +575,7 @@
     {
         "id": "49",
         "name": "npc_dota_hero_dragon_knight",
-        "localized_name": "Dragon Knight",
+        "localizedName": "Dragon Knight",
         "url": "Dragon_Knight",
         "abilities": [
             "5226",
@@ -587,7 +587,7 @@
     {
         "id": "50",
         "name": "npc_dota_hero_dazzle",
-        "localized_name": "Dazzle",
+        "localizedName": "Dazzle",
         "url": "Dazzle",
         "abilities": [
             "5233",
@@ -599,7 +599,7 @@
     {
         "id": "51",
         "name": "npc_dota_hero_rattletrap",
-        "localized_name": "Clockwerk",
+        "localizedName": "Clockwerk",
         "url": "Clockwerk",
         "abilities": [
             "5237",
@@ -611,7 +611,7 @@
     {
         "id": "52",
         "name": "npc_dota_hero_leshrac",
-        "localized_name": "Leshrac",
+        "localizedName": "Leshrac",
         "url": "Leshrac",
         "abilities": [
             "5241",
@@ -623,7 +623,7 @@
     {
         "id": "53",
         "name": "npc_dota_hero_furion",
-        "localized_name": "Nature's Prophet",
+        "localizedName": "Nature's Prophet",
         "url": "Natures_Prophet",
         "abilities": [
             "5245",
@@ -635,7 +635,7 @@
     {
         "id": "54",
         "name": "npc_dota_hero_life_stealer",
-        "localized_name": "Lifestealer",
+        "localizedName": "Lifestealer",
         "url": "Lifestealer",
         "abilities": [
             "5249",
@@ -648,7 +648,7 @@
     {
         "id": "55",
         "name": "npc_dota_hero_dark_seer",
-        "localized_name": "Dark Seer",
+        "localizedName": "Dark Seer",
         "url": "Dark_Seer",
         "abilities": [
             "5255",
@@ -660,7 +660,7 @@
     {
         "id": "56",
         "name": "npc_dota_hero_clinkz",
-        "localized_name": "Clinkz",
+        "localizedName": "Clinkz",
         "url": "Clinkz",
         "abilities": [
             "5259",
@@ -672,7 +672,7 @@
     {
         "id": "57",
         "name": "npc_dota_hero_omniknight",
-        "localized_name": "Omniknight",
+        "localizedName": "Omniknight",
         "url": "Omniknight",
         "abilities": [
             "5263",
@@ -684,7 +684,7 @@
     {
         "id": "58",
         "name": "npc_dota_hero_enchantress",
-        "localized_name": "Enchantress",
+        "localizedName": "Enchantress",
         "url": "Enchantress",
         "abilities": [
             "5267",
@@ -696,7 +696,7 @@
     {
         "id": "59",
         "name": "npc_dota_hero_huskar",
-        "localized_name": "Huskar",
+        "localizedName": "Huskar",
         "url": "Huskar",
         "abilities": [
             "5271",
@@ -708,7 +708,7 @@
     {
         "id": "60",
         "name": "npc_dota_hero_night_stalker",
-        "localized_name": "Night Stalker",
+        "localizedName": "Night Stalker",
         "url": "Night_Stalker",
         "abilities": [
             "5275",
@@ -720,7 +720,7 @@
     {
         "id": "61",
         "name": "npc_dota_hero_broodmother",
-        "localized_name": "Broodmother",
+        "localizedName": "Broodmother",
         "url": "Broodmother",
         "abilities": [
             "5279",
@@ -732,7 +732,7 @@
     {
         "id": "62",
         "name": "npc_dota_hero_bounty_hunter",
-        "localized_name": "Bounty Hunter",
+        "localizedName": "Bounty Hunter",
         "url": "Bounty_Hunter",
         "abilities": [
             "5285",
@@ -744,7 +744,7 @@
     {
         "id": "63",
         "name": "npc_dota_hero_weaver",
-        "localized_name": "Weaver",
+        "localizedName": "Weaver",
         "url": "Weaver",
         "abilities": [
             "5289",
@@ -756,7 +756,7 @@
     {
         "id": "64",
         "name": "npc_dota_hero_jakiro",
-        "localized_name": "Jakiro",
+        "localizedName": "Jakiro",
         "url": "Jakiro",
         "abilities": [
             "5297",
@@ -768,7 +768,7 @@
     {
         "id": "65",
         "name": "npc_dota_hero_batrider",
-        "localized_name": "Batrider",
+        "localizedName": "Batrider",
         "url": "Batrider",
         "abilities": [
             "5320",
@@ -780,7 +780,7 @@
     {
         "id": "66",
         "name": "npc_dota_hero_chen",
-        "localized_name": "Chen",
+        "localizedName": "Chen",
         "url": "Chen",
         "abilities": [
             "5328",
@@ -793,7 +793,7 @@
     {
         "id": "67",
         "name": "npc_dota_hero_spectre",
-        "localized_name": "Spectre",
+        "localizedName": "Spectre",
         "url": "Spectre",
         "abilities": [
             "5334",
@@ -806,7 +806,7 @@
     {
         "id": "69",
         "name": "npc_dota_hero_doom_bringer",
-        "localized_name": "Doom",
+        "localizedName": "Doom",
         "url": "Doom",
         "abilities": [
             "5339",
@@ -818,7 +818,7 @@
     {
         "id": "68",
         "name": "npc_dota_hero_ancient_apparition",
-        "localized_name": "Ancient Apparition",
+        "localizedName": "Ancient Apparition",
         "url": "Ancient_Apparition",
         "abilities": [
             "5345",
@@ -831,7 +831,7 @@
     {
         "id": "70",
         "name": "npc_dota_hero_ursa",
-        "localized_name": "Ursa",
+        "localizedName": "Ursa",
         "url": "Ursa",
         "abilities": [
             "5357",
@@ -843,7 +843,7 @@
     {
         "id": "71",
         "name": "npc_dota_hero_spirit_breaker",
-        "localized_name": "Spirit Breaker",
+        "localizedName": "Spirit Breaker",
         "url": "Spirit_Breaker",
         "abilities": [
             "5353",
@@ -855,7 +855,7 @@
     {
         "id": "72",
         "name": "npc_dota_hero_gyrocopter",
-        "localized_name": "Gyrocopter",
+        "localizedName": "Gyrocopter",
         "url": "Gyrocopter",
         "abilities": [
             "5361",
@@ -867,7 +867,7 @@
     {
         "id": "73",
         "name": "npc_dota_hero_alchemist",
-        "localized_name": "Alchemist",
+        "localizedName": "Alchemist",
         "url": "Alchemist",
         "abilities": [
             "5365",
@@ -880,7 +880,7 @@
     {
         "id": "74",
         "name": "npc_dota_hero_invoker",
-        "localized_name": "Invoker",
+        "localizedName": "Invoker",
         "url": "Invoker",
         "abilities": [
             "5370",
@@ -902,7 +902,7 @@
     {
         "id": "75",
         "name": "npc_dota_hero_silencer",
-        "localized_name": "Silencer",
+        "localizedName": "Silencer",
         "url": "Silencer",
         "abilities": [
             "5377",
@@ -914,7 +914,7 @@
     {
         "id": "76",
         "name": "npc_dota_hero_obsidian_destroyer",
-        "localized_name": "Outworld Devourer",
+        "localizedName": "Outworld Devourer",
         "url": "Outworld_Devourer",
         "abilities": [
             "5391",
@@ -926,7 +926,7 @@
     {
         "id": "77",
         "name": "npc_dota_hero_lycan",
-        "localized_name": "Lycan",
+        "localizedName": "Lycan",
         "url": "Lycan",
         "abilities": [
             "5395",
@@ -938,7 +938,7 @@
     {
         "id": "78",
         "name": "npc_dota_hero_brewmaster",
-        "localized_name": "Brewmaster",
+        "localizedName": "Brewmaster",
         "url": "Brewmaster",
         "abilities": [
             "5400",
@@ -950,7 +950,7 @@
     {
         "id": "79",
         "name": "npc_dota_hero_shadow_demon",
-        "localized_name": "Shadow Demon",
+        "localizedName": "Shadow Demon",
         "url": "Shadow_Demon",
         "abilities": [
             "5421",
@@ -963,7 +963,7 @@
     {
         "id": "80",
         "name": "npc_dota_hero_lone_druid",
-        "localized_name": "Lone Druid",
+        "localizedName": "Lone Druid",
         "url": "Lone_Druid",
         "abilities": [
             "5412",
@@ -977,7 +977,7 @@
     {
         "id": "81",
         "name": "npc_dota_hero_chaos_knight",
-        "localized_name": "Chaos Knight",
+        "localizedName": "Chaos Knight",
         "url": "Chaos_Knight",
         "abilities": [
             "5426",
@@ -989,7 +989,7 @@
     {
         "id": "82",
         "name": "npc_dota_hero_meepo",
-        "localized_name": "Meepo",
+        "localizedName": "Meepo",
         "url": "Meepo",
         "abilities": [
             "5430",
@@ -1001,7 +1001,7 @@
     {
         "id": "83",
         "name": "npc_dota_hero_treant",
-        "localized_name": "Treant Protector",
+        "localizedName": "Treant Protector",
         "url": "Treant_Protector",
         "abilities": [
             "5434",
@@ -1013,7 +1013,7 @@
     {
         "id": "84",
         "name": "npc_dota_hero_ogre_magi",
-        "localized_name": "Ogre Magi",
+        "localizedName": "Ogre Magi",
         "url": "Ogre_Magi",
         "abilities": [
             "5438",
@@ -1026,7 +1026,7 @@
     {
         "id": "85",
         "name": "npc_dota_hero_undying",
-        "localized_name": "Undying",
+        "localizedName": "Undying",
         "url": "Undying",
         "abilities": [
             "5442",
@@ -1038,7 +1038,7 @@
     {
         "id": "86",
         "name": "npc_dota_hero_rubick",
-        "localized_name": "Rubick",
+        "localizedName": "Rubick",
         "url": "Rubick",
         "abilities": [
             "5448",
@@ -1051,7 +1051,7 @@
     {
         "id": "87",
         "name": "npc_dota_hero_disruptor",
-        "localized_name": "Disruptor",
+        "localizedName": "Disruptor",
         "url": "Disruptor",
         "abilities": [
             "5458",
@@ -1063,7 +1063,7 @@
     {
         "id": "88",
         "name": "npc_dota_hero_nyx_assassin",
-        "localized_name": "Nyx Assassin",
+        "localizedName": "Nyx Assassin",
         "url": "Nyx_Assassin",
         "abilities": [
             "5462",
@@ -1075,7 +1075,7 @@
     {
         "id": "89",
         "name": "npc_dota_hero_naga_siren",
-        "localized_name": "Naga Siren",
+        "localizedName": "Naga Siren",
         "url": "Naga_Siren",
         "abilities": [
             "5467",
@@ -1088,7 +1088,7 @@
     {
         "id": "90",
         "name": "npc_dota_hero_keeper_of_the_light",
-        "localized_name": "Keeper of the Light",
+        "localizedName": "Keeper of the Light",
         "url": "Keeper_of_the_Light",
         "abilities": [
             "5471",
@@ -1105,7 +1105,7 @@
     {
         "id": "91",
         "name": "npc_dota_hero_wisp",
-        "localized_name": "Io",
+        "localizedName": "Io",
         "url": "Io",
         "abilities": [
             "5485",
@@ -1120,7 +1120,7 @@
     {
         "id": "92",
         "name": "npc_dota_hero_visage",
-        "localized_name": "Visage",
+        "localizedName": "Visage",
         "url": "Visage",
         "abilities": [
             "5480",
@@ -1132,7 +1132,7 @@
     {
         "id": "93",
         "name": "npc_dota_hero_slark",
-        "localized_name": "Slark",
+        "localizedName": "Slark",
         "url": "Slark",
         "abilities": [
             "5494",
@@ -1144,7 +1144,7 @@
     {
         "id": "94",
         "name": "npc_dota_hero_medusa",
-        "localized_name": "Medusa",
+        "localizedName": "Medusa",
         "url": "Medusa",
         "abilities": [
             "5504",
@@ -1156,7 +1156,7 @@
     {
         "id": "95",
         "name": "npc_dota_hero_troll_warlord",
-        "localized_name": "Troll Warlord",
+        "localizedName": "Troll Warlord",
         "url": "Troll_Warlord",
         "abilities": [
             "5508",
@@ -1169,7 +1169,7 @@
     {
         "id": "96",
         "name": "npc_dota_hero_centaur",
-        "localized_name": "Centaur Warrunner",
+        "localizedName": "Centaur Warrunner",
         "url": [
             "Centaur Warchief",
             "Centaur_Warrunner"
@@ -1184,7 +1184,7 @@
     {
         "id": "97",
         "name": "npc_dota_hero_magnataur",
-        "localized_name": "Magnus",
+        "localizedName": "Magnus",
         "url": "Magnus",
         "abilities": [
             "5518",
@@ -1196,7 +1196,7 @@
     {
         "id": "98",
         "name": "npc_dota_hero_shredder",
-        "localized_name": "Timbersaw",
+        "localizedName": "Timbersaw",
         "url": "Timbersaw",
         "abilities": [
             "5524",
@@ -1209,7 +1209,7 @@
     {
         "id": "99",
         "name": "npc_dota_hero_bristleback",
-        "localized_name": "Bristleback",
+        "localizedName": "Bristleback",
         "url": "Bristleback",
         "abilities": [
             "5548",
@@ -1221,7 +1221,7 @@
     {
         "id": "100",
         "name": "npc_dota_hero_tusk",
-        "localized_name": "Tusk",
+        "localizedName": "Tusk",
         "url": "Tusk",
         "abilities": [
             "5565",
@@ -1233,7 +1233,7 @@
     {
         "id": "101",
         "name": "npc_dota_hero_skywrath_mage",
-        "localized_name": "Skywrath Mage",
+        "localizedName": "Skywrath Mage",
         "url": "Skywrath_Mage",
         "abilities": [
             "5581",
@@ -1245,7 +1245,7 @@
     {
         "id": "102",
         "name": "npc_dota_hero_abaddon",
-        "localized_name": "Abaddon",
+        "localizedName": "Abaddon",
         "url": "Abaddon",
         "abilities": [
             "5585",
@@ -1257,7 +1257,7 @@
     {
         "id": "103",
         "name": "npc_dota_hero_elder_titan",
-        "localized_name": "Elder Titan",
+        "localizedName": "Elder Titan",
         "url": "Elder_Titan",
         "abilities": [
             "5589",
@@ -1270,7 +1270,7 @@
     {
         "id": "104",
         "name": "npc_dota_hero_legion_commander",
-        "localized_name": "Legion Commander",
+        "localizedName": "Legion Commander",
         "url": "Legion_Commander",
         "abilities": [
             "5595",
@@ -1282,7 +1282,7 @@
     {
         "id": "106",
         "name": "npc_dota_hero_ember_spirit",
-        "localized_name": "Ember Spirit",
+        "localizedName": "Ember Spirit",
         "url": "Ember_Spirit",
         "abilities": [
             "5603",
@@ -1295,7 +1295,7 @@
     {
         "id": "107",
         "name": "npc_dota_hero_earth_spirit",
-        "localized_name": "Earth Spirit",
+        "localizedName": "Earth Spirit",
         "url": "Earth_Spirit",
         "abilities": [
             "5608",
@@ -1308,7 +1308,7 @@
     {
         "id": "109",
         "name": "npc_dota_hero_terrorblade",
-        "localized_name": "Terrorblade",
+        "localizedName": "Terrorblade",
         "url": "Terrorblade",
         "abilities": [
             "5619",
@@ -1320,7 +1320,7 @@
     {
         "id": "110",
         "name": "npc_dota_hero_phoenix",
-        "localized_name": "Phoenix",
+        "localizedName": "Phoenix",
         "url": "Phoenix",
         "abilities": [
             "5623",
