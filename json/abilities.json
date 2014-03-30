@@ -1680,18 +1680,6 @@
         "localized_name": "Doom"
     },
     {
-        "id": "5343",
-        "hero_id": "69",
-        "name": "doom_bringer_empty1",
-        "localized_name": "Empty"
-    },
-    {
-        "id": "5344",
-        "hero_id": "69",
-        "name": "doom_bringer_empty2",
-        "localized_name": "Empty"
-    },
-    {
         "id": "5345",
         "hero_id": "68",
         "name": "ancient_apparition_cold_feet",
@@ -1840,18 +1828,6 @@
         "hero_id": "74",
         "name": "invoker_exort",
         "localized_name": "Exort"
-    },
-    {
-        "id": "5373",
-        "hero_id": "74",
-        "name": "invoker_empty1",
-        "localized_name": "Empty"
-    },
-    {
-        "id": "5374",
-        "hero_id": "74",
-        "name": "invoker_empty2",
-        "localized_name": "Empty"
     },
     {
         "id": "5375",
