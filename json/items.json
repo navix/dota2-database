@@ -1,0 +1,1177 @@
+[
+    {
+        "id": "1",
+        "name": "item_blink",
+        "localized_name": ""
+    },
+    {
+        "id": "2",
+        "name": "item_blades_of_attack",
+        "localized_name": ""
+    },
+    {
+        "id": "3",
+        "name": "item_broadsword",
+        "localized_name": ""
+    },
+    {
+        "id": "4",
+        "name": "item_chainmail",
+        "localized_name": ""
+    },
+    {
+        "id": "5",
+        "name": "item_claymore",
+        "localized_name": ""
+    },
+    {
+        "id": "6",
+        "name": "item_helm_of_iron_will",
+        "localized_name": ""
+    },
+    {
+        "id": "7",
+        "name": "item_javelin",
+        "localized_name": ""
+    },
+    {
+        "id": "8",
+        "name": "item_mithril_hammer",
+        "localized_name": ""
+    },
+    {
+        "id": "9",
+        "name": "item_platemail",
+        "localized_name": ""
+    },
+    {
+        "id": "10",
+        "name": "item_quarterstaff",
+        "localized_name": ""
+    },
+    {
+        "id": "11",
+        "name": "item_quelling_blade",
+        "localized_name": ""
+    },
+    {
+        "id": "12",
+        "name": "item_ring_of_protection",
+        "localized_name": ""
+    },
+    {
+        "id": "182",
+        "name": "item_stout_shield",
+        "localized_name": ""
+    },
+    {
+        "id": "13",
+        "name": "item_gauntlets",
+        "localized_name": ""
+    },
+    {
+        "id": "14",
+        "name": "item_slippers",
+        "localized_name": ""
+    },
+    {
+        "id": "15",
+        "name": "item_mantle",
+        "localized_name": ""
+    },
+    {
+        "id": "16",
+        "name": "item_branches",
+        "localized_name": ""
+    },
+    {
+        "id": "17",
+        "name": "item_belt_of_strength",
+        "localized_name": ""
+    },
+    {
+        "id": "18",
+        "name": "item_boots_of_elves",
+        "localized_name": ""
+    },
+    {
+        "id": "19",
+        "name": "item_robe",
+        "localized_name": ""
+    },
+    {
+        "id": "20",
+        "name": "item_circlet",
+        "localized_name": ""
+    },
+    {
+        "id": "21",
+        "name": "item_ogre_axe",
+        "localized_name": ""
+    },
+    {
+        "id": "22",
+        "name": "item_blade_of_alacrity",
+        "localized_name": ""
+    },
+    {
+        "id": "23",
+        "name": "item_staff_of_wizardry",
+        "localized_name": ""
+    },
+    {
+        "id": "24",
+        "name": "item_ultimate_orb",
+        "localized_name": ""
+    },
+    {
+        "id": "25",
+        "name": "item_gloves",
+        "localized_name": ""
+    },
+    {
+        "id": "26",
+        "name": "item_lifesteal",
+        "localized_name": ""
+    },
+    {
+        "id": "27",
+        "name": "item_ring_of_regen",
+        "localized_name": ""
+    },
+    {
+        "id": "28",
+        "name": "item_sobi_mask",
+        "localized_name": ""
+    },
+    {
+        "id": "29",
+        "name": "item_boots",
+        "localized_name": ""
+    },
+    {
+        "id": "30",
+        "name": "item_gem",
+        "localized_name": ""
+    },
+    {
+        "id": "31",
+        "name": "item_cloak",
+        "localized_name": ""
+    },
+    {
+        "id": "32",
+        "name": "item_talisman_of_evasion",
+        "localized_name": ""
+    },
+    {
+        "id": "33",
+        "name": "item_cheese",
+        "localized_name": ""
+    },
+    {
+        "id": "34",
+        "name": "item_magic_stick",
+        "localized_name": ""
+    },
+    {
+        "id": "35",
+        "name": "item_recipe_magic_wand",
+        "localized_name": ""
+    },
+    {
+        "id": "36",
+        "name": "item_magic_wand",
+        "localized_name": ""
+    },
+    {
+        "id": "37",
+        "name": "item_ghost",
+        "localized_name": ""
+    },
+    {
+        "id": "38",
+        "name": "item_clarity",
+        "localized_name": ""
+    },
+    {
+        "id": "39",
+        "name": "item_flask",
+        "localized_name": ""
+    },
+    {
+        "id": "40",
+        "name": "item_dust",
+        "localized_name": ""
+    },
+    {
+        "id": "41",
+        "name": "item_bottle",
+        "localized_name": ""
+    },
+    {
+        "id": "42",
+        "name": "item_ward_observer",
+        "localized_name": ""
+    },
+    {
+        "id": "43",
+        "name": "item_ward_sentry",
+        "localized_name": ""
+    },
+    {
+        "id": "44",
+        "name": "item_tango",
+        "localized_name": ""
+    },
+    {
+        "id": "241",
+        "name": "item_tango_single",
+        "localized_name": ""
+    },
+    {
+        "id": "45",
+        "name": "item_courier",
+        "localized_name": ""
+    },
+    {
+        "id": "46",
+        "name": "item_tpscroll",
+        "localized_name": ""
+    },
+    {
+        "id": "47",
+        "name": "item_recipe_travel_boots",
+        "localized_name": ""
+    },
+    {
+        "id": "48",
+        "name": "item_travel_boots",
+        "localized_name": ""
+    },
+    {
+        "id": "49",
+        "name": "item_recipe_phase_boots",
+        "localized_name": ""
+    },
+    {
+        "id": "50",
+        "name": "item_phase_boots",
+        "localized_name": ""
+    },
+    {
+        "id": "51",
+        "name": "item_demon_edge",
+        "localized_name": ""
+    },
+    {
+        "id": "52",
+        "name": "item_eagle",
+        "localized_name": ""
+    },
+    {
+        "id": "53",
+        "name": "item_reaver",
+        "localized_name": ""
+    },
+    {
+        "id": "54",
+        "name": "item_relic",
+        "localized_name": ""
+    },
+    {
+        "id": "55",
+        "name": "item_hyperstone",
+        "localized_name": ""
+    },
+    {
+        "id": "56",
+        "name": "item_ring_of_health",
+        "localized_name": ""
+    },
+    {
+        "id": "57",
+        "name": "item_void_stone",
+        "localized_name": ""
+    },
+    {
+        "id": "58",
+        "name": "item_mystic_staff",
+        "localized_name": ""
+    },
+    {
+        "id": "59",
+        "name": "item_energy_booster",
+        "localized_name": ""
+    },
+    {
+        "id": "60",
+        "name": "item_point_booster",
+        "localized_name": ""
+    },
+    {
+        "id": "61",
+        "name": "item_vitality_booster",
+        "localized_name": ""
+    },
+    {
+        "id": "62",
+        "name": "item_recipe_power_treads",
+        "localized_name": ""
+    },
+    {
+        "id": "63",
+        "name": "item_power_treads",
+        "localized_name": ""
+    },
+    {
+        "id": "64",
+        "name": "item_recipe_hand_of_midas",
+        "localized_name": ""
+    },
+    {
+        "id": "65",
+        "name": "item_hand_of_midas",
+        "localized_name": ""
+    },
+    {
+        "id": "66",
+        "name": "item_recipe_oblivion_staff",
+        "localized_name": ""
+    },
+    {
+        "id": "67",
+        "name": "item_oblivion_staff",
+        "localized_name": ""
+    },
+    {
+        "id": "68",
+        "name": "item_recipe_pers",
+        "localized_name": ""
+    },
+    {
+        "id": "69",
+        "name": "item_pers",
+        "localized_name": ""
+    },
+    {
+        "id": "70",
+        "name": "item_recipe_poor_mans_shield",
+        "localized_name": ""
+    },
+    {
+        "id": "71",
+        "name": "item_poor_mans_shield",
+        "localized_name": ""
+    },
+    {
+        "id": "72",
+        "name": "item_recipe_bracer",
+        "localized_name": ""
+    },
+    {
+        "id": "73",
+        "name": "item_bracer",
+        "localized_name": ""
+    },
+    {
+        "id": "74",
+        "name": "item_recipe_wraith_band",
+        "localized_name": ""
+    },
+    {
+        "id": "75",
+        "name": "item_wraith_band",
+        "localized_name": ""
+    },
+    {
+        "id": "76",
+        "name": "item_recipe_null_talisman",
+        "localized_name": ""
+    },
+    {
+        "id": "77",
+        "name": "item_null_talisman",
+        "localized_name": ""
+    },
+    {
+        "id": "78",
+        "name": "item_recipe_mekansm",
+        "localized_name": ""
+    },
+    {
+        "id": "79",
+        "name": "item_mekansm",
+        "localized_name": ""
+    },
+    {
+        "id": "80",
+        "name": "item_recipe_vladmir",
+        "localized_name": ""
+    },
+    {
+        "id": "81",
+        "name": "item_vladmir",
+        "localized_name": ""
+    },
+    {
+        "id": "84",
+        "name": "item_flying_courier",
+        "localized_name": ""
+    },
+    {
+        "id": "85",
+        "name": "item_recipe_buckler",
+        "localized_name": ""
+    },
+    {
+        "id": "86",
+        "name": "item_buckler",
+        "localized_name": ""
+    },
+    {
+        "id": "87",
+        "name": "item_recipe_ring_of_basilius",
+        "localized_name": ""
+    },
+    {
+        "id": "88",
+        "name": "item_ring_of_basilius",
+        "localized_name": ""
+    },
+    {
+        "id": "89",
+        "name": "item_recipe_pipe",
+        "localized_name": ""
+    },
+    {
+        "id": "90",
+        "name": "item_pipe",
+        "localized_name": ""
+    },
+    {
+        "id": "91",
+        "name": "item_recipe_urn_of_shadows",
+        "localized_name": ""
+    },
+    {
+        "id": "92",
+        "name": "item_urn_of_shadows",
+        "localized_name": ""
+    },
+    {
+        "id": "93",
+        "name": "item_recipe_headdress",
+        "localized_name": ""
+    },
+    {
+        "id": "94",
+        "name": "item_headdress",
+        "localized_name": ""
+    },
+    {
+        "id": "95",
+        "name": "item_recipe_sheepstick",
+        "localized_name": ""
+    },
+    {
+        "id": "96",
+        "name": "item_sheepstick",
+        "localized_name": ""
+    },
+    {
+        "id": "97",
+        "name": "item_recipe_orchid",
+        "localized_name": ""
+    },
+    {
+        "id": "98",
+        "name": "item_orchid",
+        "localized_name": ""
+    },
+    {
+        "id": "99",
+        "name": "item_recipe_cyclone",
+        "localized_name": ""
+    },
+    {
+        "id": "100",
+        "name": "item_cyclone",
+        "localized_name": ""
+    },
+    {
+        "id": "101",
+        "name": "item_recipe_force_staff",
+        "localized_name": ""
+    },
+    {
+        "id": "102",
+        "name": "item_force_staff",
+        "localized_name": ""
+    },
+    {
+        "id": "103",
+        "name": "item_recipe_dagon",
+        "localized_name": ""
+    },
+    {
+        "id": "197",
+        "name": "item_recipe_dagon_2",
+        "localized_name": ""
+    },
+    {
+        "id": "198",
+        "name": "item_recipe_dagon_3",
+        "localized_name": ""
+    },
+    {
+        "id": "199",
+        "name": "item_recipe_dagon_4",
+        "localized_name": ""
+    },
+    {
+        "id": "200",
+        "name": "item_recipe_dagon_5",
+        "localized_name": ""
+    },
+    {
+        "id": "104",
+        "name": "item_dagon",
+        "localized_name": ""
+    },
+    {
+        "id": "201",
+        "name": "item_dagon_2",
+        "localized_name": ""
+    },
+    {
+        "id": "202",
+        "name": "item_dagon_3",
+        "localized_name": ""
+    },
+    {
+        "id": "203",
+        "name": "item_dagon_4",
+        "localized_name": ""
+    },
+    {
+        "id": "204",
+        "name": "item_dagon_5",
+        "localized_name": ""
+    },
+    {
+        "id": "105",
+        "name": "item_recipe_necronomicon",
+        "localized_name": ""
+    },
+    {
+        "id": "191",
+        "name": "item_recipe_necronomicon_2",
+        "localized_name": ""
+    },
+    {
+        "id": "192",
+        "name": "item_recipe_necronomicon_3",
+        "localized_name": ""
+    },
+    {
+        "id": "106",
+        "name": "item_necronomicon",
+        "localized_name": ""
+    },
+    {
+        "id": "193",
+        "name": "item_necronomicon_2",
+        "localized_name": ""
+    },
+    {
+        "id": "194",
+        "name": "item_necronomicon_3",
+        "localized_name": ""
+    },
+    {
+        "id": "107",
+        "name": "item_recipe_ultimate_scepter",
+        "localized_name": ""
+    },
+    {
+        "id": "108",
+        "name": "item_ultimate_scepter",
+        "localized_name": ""
+    },
+    {
+        "id": "109",
+        "name": "item_recipe_refresher",
+        "localized_name": ""
+    },
+    {
+        "id": "110",
+        "name": "item_refresher",
+        "localized_name": ""
+    },
+    {
+        "id": "111",
+        "name": "item_recipe_assault",
+        "localized_name": ""
+    },
+    {
+        "id": "112",
+        "name": "item_assault",
+        "localized_name": ""
+    },
+    {
+        "id": "113",
+        "name": "item_recipe_heart",
+        "localized_name": ""
+    },
+    {
+        "id": "114",
+        "name": "item_heart",
+        "localized_name": ""
+    },
+    {
+        "id": "115",
+        "name": "item_recipe_black_king_bar",
+        "localized_name": ""
+    },
+    {
+        "id": "116",
+        "name": "item_black_king_bar",
+        "localized_name": ""
+    },
+    {
+        "id": "117",
+        "name": "item_aegis",
+        "localized_name": ""
+    },
+    {
+        "id": "118",
+        "name": "item_recipe_shivas_guard",
+        "localized_name": ""
+    },
+    {
+        "id": "119",
+        "name": "item_shivas_guard",
+        "localized_name": ""
+    },
+    {
+        "id": "120",
+        "name": "item_recipe_bloodstone",
+        "localized_name": ""
+    },
+    {
+        "id": "121",
+        "name": "item_bloodstone",
+        "localized_name": ""
+    },
+    {
+        "id": "122",
+        "name": "item_recipe_sphere",
+        "localized_name": ""
+    },
+    {
+        "id": "123",
+        "name": "item_sphere",
+        "localized_name": ""
+    },
+    {
+        "id": "124",
+        "name": "item_recipe_vanguard",
+        "localized_name": ""
+    },
+    {
+        "id": "125",
+        "name": "item_vanguard",
+        "localized_name": ""
+    },
+    {
+        "id": "126",
+        "name": "item_recipe_blade_mail",
+        "localized_name": ""
+    },
+    {
+        "id": "127",
+        "name": "item_blade_mail",
+        "localized_name": ""
+    },
+    {
+        "id": "128",
+        "name": "item_recipe_soul_booster",
+        "localized_name": ""
+    },
+    {
+        "id": "129",
+        "name": "item_soul_booster",
+        "localized_name": ""
+    },
+    {
+        "id": "130",
+        "name": "item_recipe_hood_of_defiance",
+        "localized_name": ""
+    },
+    {
+        "id": "131",
+        "name": "item_hood_of_defiance",
+        "localized_name": ""
+    },
+    {
+        "id": "132",
+        "name": "item_recipe_rapier",
+        "localized_name": ""
+    },
+    {
+        "id": "133",
+        "name": "item_rapier",
+        "localized_name": ""
+    },
+    {
+        "id": "134",
+        "name": "item_recipe_monkey_king_bar",
+        "localized_name": ""
+    },
+    {
+        "id": "135",
+        "name": "item_monkey_king_bar",
+        "localized_name": ""
+    },
+    {
+        "id": "136",
+        "name": "item_recipe_radiance",
+        "localized_name": ""
+    },
+    {
+        "id": "137",
+        "name": "item_radiance",
+        "localized_name": ""
+    },
+    {
+        "id": "138",
+        "name": "item_recipe_butterfly",
+        "localized_name": ""
+    },
+    {
+        "id": "139",
+        "name": "item_butterfly",
+        "localized_name": ""
+    },
+    {
+        "id": "140",
+        "name": "item_recipe_greater_crit",
+        "localized_name": ""
+    },
+    {
+        "id": "141",
+        "name": "item_greater_crit",
+        "localized_name": ""
+    },
+    {
+        "id": "142",
+        "name": "item_recipe_basher",
+        "localized_name": ""
+    },
+    {
+        "id": "143",
+        "name": "item_basher",
+        "localized_name": ""
+    },
+    {
+        "id": "144",
+        "name": "item_recipe_bfury",
+        "localized_name": ""
+    },
+    {
+        "id": "145",
+        "name": "item_bfury",
+        "localized_name": ""
+    },
+    {
+        "id": "146",
+        "name": "item_recipe_manta",
+        "localized_name": ""
+    },
+    {
+        "id": "147",
+        "name": "item_manta",
+        "localized_name": ""
+    },
+    {
+        "id": "148",
+        "name": "item_recipe_lesser_crit",
+        "localized_name": ""
+    },
+    {
+        "id": "149",
+        "name": "item_lesser_crit",
+        "localized_name": ""
+    },
+    {
+        "id": "150",
+        "name": "item_recipe_armlet",
+        "localized_name": ""
+    },
+    {
+        "id": "151",
+        "name": "item_armlet",
+        "localized_name": ""
+    },
+    {
+        "id": "183",
+        "name": "item_recipe_invis_sword",
+        "localized_name": ""
+    },
+    {
+        "id": "152",
+        "name": "item_invis_sword",
+        "localized_name": ""
+    },
+    {
+        "id": "153",
+        "name": "item_recipe_sange_and_yasha",
+        "localized_name": ""
+    },
+    {
+        "id": "154",
+        "name": "item_sange_and_yasha",
+        "localized_name": ""
+    },
+    {
+        "id": "155",
+        "name": "item_recipe_satanic",
+        "localized_name": ""
+    },
+    {
+        "id": "156",
+        "name": "item_satanic",
+        "localized_name": ""
+    },
+    {
+        "id": "157",
+        "name": "item_recipe_mjollnir",
+        "localized_name": ""
+    },
+    {
+        "id": "158",
+        "name": "item_mjollnir",
+        "localized_name": ""
+    },
+    {
+        "id": "159",
+        "name": "item_recipe_skadi",
+        "localized_name": ""
+    },
+    {
+        "id": "160",
+        "name": "item_skadi",
+        "localized_name": ""
+    },
+    {
+        "id": "161",
+        "name": "item_recipe_sange",
+        "localized_name": ""
+    },
+    {
+        "id": "162",
+        "name": "item_sange",
+        "localized_name": ""
+    },
+    {
+        "id": "163",
+        "name": "item_recipe_helm_of_the_dominator",
+        "localized_name": ""
+    },
+    {
+        "id": "164",
+        "name": "item_helm_of_the_dominator",
+        "localized_name": ""
+    },
+    {
+        "id": "165",
+        "name": "item_recipe_maelstrom",
+        "localized_name": ""
+    },
+    {
+        "id": "166",
+        "name": "item_maelstrom",
+        "localized_name": ""
+    },
+    {
+        "id": "167",
+        "name": "item_recipe_desolator",
+        "localized_name": ""
+    },
+    {
+        "id": "168",
+        "name": "item_desolator",
+        "localized_name": ""
+    },
+    {
+        "id": "169",
+        "name": "item_recipe_yasha",
+        "localized_name": ""
+    },
+    {
+        "id": "170",
+        "name": "item_yasha",
+        "localized_name": ""
+    },
+    {
+        "id": "171",
+        "name": "item_recipe_mask_of_madness",
+        "localized_name": ""
+    },
+    {
+        "id": "172",
+        "name": "item_mask_of_madness",
+        "localized_name": ""
+    },
+    {
+        "id": "173",
+        "name": "item_recipe_diffusal_blade",
+        "localized_name": ""
+    },
+    {
+        "id": "195",
+        "name": "item_recipe_diffusal_blade_2",
+        "localized_name": ""
+    },
+    {
+        "id": "174",
+        "name": "item_diffusal_blade",
+        "localized_name": ""
+    },
+    {
+        "id": "196",
+        "name": "item_diffusal_blade_2",
+        "localized_name": ""
+    },
+    {
+        "id": "175",
+        "name": "item_recipe_ethereal_blade",
+        "localized_name": ""
+    },
+    {
+        "id": "176",
+        "name": "item_ethereal_blade",
+        "localized_name": ""
+    },
+    {
+        "id": "177",
+        "name": "item_recipe_soul_ring",
+        "localized_name": ""
+    },
+    {
+        "id": "178",
+        "name": "item_soul_ring",
+        "localized_name": ""
+    },
+    {
+        "id": "179",
+        "name": "item_recipe_arcane_boots",
+        "localized_name": ""
+    },
+    {
+        "id": "180",
+        "name": "item_arcane_boots",
+        "localized_name": ""
+    },
+    {
+        "id": "181",
+        "name": "item_orb_of_venom",
+        "localized_name": ""
+    },
+    {
+        "id": "184",
+        "name": "item_recipe_ancient_janggo",
+        "localized_name": ""
+    },
+    {
+        "id": "185",
+        "name": "item_ancient_janggo",
+        "localized_name": ""
+    },
+    {
+        "id": "186",
+        "name": "item_recipe_medallion_of_courage",
+        "localized_name": ""
+    },
+    {
+        "id": "187",
+        "name": "item_medallion_of_courage",
+        "localized_name": ""
+    },
+    {
+        "id": "188",
+        "name": "item_smoke_of_deceit",
+        "localized_name": ""
+    },
+    {
+        "id": "189",
+        "name": "item_recipe_veil_of_discord",
+        "localized_name": ""
+    },
+    {
+        "id": "190",
+        "name": "item_veil_of_discord",
+        "localized_name": ""
+    },
+    {
+        "id": "205",
+        "name": "item_recipe_rod_of_atos",
+        "localized_name": ""
+    },
+    {
+        "id": "206",
+        "name": "item_rod_of_atos",
+        "localized_name": ""
+    },
+    {
+        "id": "207",
+        "name": "item_recipe_abyssal_blade",
+        "localized_name": ""
+    },
+    {
+        "id": "208",
+        "name": "item_abyssal_blade",
+        "localized_name": ""
+    },
+    {
+        "id": "209",
+        "name": "item_recipe_heavens_halberd",
+        "localized_name": ""
+    },
+    {
+        "id": "210",
+        "name": "item_heavens_halberd",
+        "localized_name": ""
+    },
+    {
+        "id": "211",
+        "name": "item_recipe_ring_of_aquila",
+        "localized_name": ""
+    },
+    {
+        "id": "212",
+        "name": "item_ring_of_aquila",
+        "localized_name": ""
+    },
+    {
+        "id": "213",
+        "name": "item_recipe_tranquil_boots",
+        "localized_name": ""
+    },
+    {
+        "id": "214",
+        "name": "item_tranquil_boots",
+        "localized_name": ""
+    },
+    {
+        "id": "215",
+        "name": "item_shadow_amulet",
+        "localized_name": ""
+    },
+    {
+        "id": "216",
+        "name": "item_halloween_candy_corn",
+        "localized_name": ""
+    },
+    {
+        "id": "217",
+        "name": "item_mystery_hook",
+        "localized_name": ""
+    },
+    {
+        "id": "218",
+        "name": "item_mystery_arrow",
+        "localized_name": ""
+    },
+    {
+        "id": "219",
+        "name": "item_mystery_missile",
+        "localized_name": ""
+    },
+    {
+        "id": "220",
+        "name": "item_mystery_toss",
+        "localized_name": ""
+    },
+    {
+        "id": "221",
+        "name": "item_mystery_vacuum",
+        "localized_name": ""
+    },
+    {
+        "id": "226",
+        "name": "item_halloween_rapier",
+        "localized_name": ""
+    },
+    {
+        "id": "228",
+        "name": "item_greevil_whistle",
+        "localized_name": "Greevil Whistle"
+    },
+    {
+        "id": "235",
+        "name": "item_greevil_whistle_toggle",
+        "localized_name": "Greevil Whistle"
+    },
+    {
+        "id": "227",
+        "name": "item_present",
+        "localized_name": ""
+    },
+    {
+        "id": "229",
+        "name": "item_winter_stocking",
+        "localized_name": "Xmas Stocking"
+    },
+    {
+        "id": "230",
+        "name": "item_winter_skates",
+        "localized_name": "Speed Skates"
+    },
+    {
+        "id": "231",
+        "name": "item_winter_cake",
+        "localized_name": "Fruit-bit Cake"
+    },
+    {
+        "id": "232",
+        "name": "item_winter_cookie",
+        "localized_name": "Wizard Cookie"
+    },
+    {
+        "id": "233",
+        "name": "item_winter_coco",
+        "localized_name": "Cocoa with Marshmallows"
+    },
+    {
+        "id": "234",
+        "name": "item_winter_ham",
+        "localized_name": "Clove Studded Ham"
+    },
+    {
+        "id": "236",
+        "name": "item_winter_kringle",
+        "localized_name": "Kringle"
+    },
+    {
+        "id": "237",
+        "name": "item_winter_mushroom",
+        "localized_name": "Snow Mushroom"
+    },
+    {
+        "id": "238",
+        "name": "item_winter_greevil_treat",
+        "localized_name": "Greevil Treat"
+    },
+    {
+        "id": "239",
+        "name": "item_winter_greevil_garbage",
+        "localized_name": "Greevil Chow"
+    },
+    {
+        "id": "240",
+        "name": "item_winter_greevil_chewy",
+        "localized_name": "Greevil Blink Bone"
+    }
+]
