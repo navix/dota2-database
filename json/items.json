@@ -452,7 +452,7 @@
     {
         "id": "91",
         "name": "item_recipe_urn_of_shadows",
-        "localizedName": "Urn of Shadows"
+        "localizedName": "Urn of Shadows Recipe"
     },
     {
         "id": "92",
@@ -1057,7 +1057,7 @@
     {
         "id": "213",
         "name": "item_recipe_tranquil_boots",
-        "localizedName": "Tranquil Boots"
+        "localizedName": "Tranquil Boots Recipe"
     },
     {
         "id": "214",

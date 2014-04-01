@@ -2832,10 +2832,10 @@
         "localizedName": "Stop Sun Ray"
     },
     {
-        "id": "5579",
-        "heroId": "",
-        "name": "healing_campfire",
-        "localizedName": ""
+        "id": "5628",
+        "heroId": "110",
+        "name": "phoenix_sun_ray_toggle_move",
+        "localizedName": "Toggle Movement"
     },
     {
         "id": "5629",
